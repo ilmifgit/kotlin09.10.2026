@@ -20,3 +20,7 @@ dependencies {
 kotlin { jvmToolchain(17) }
 application { mainClass.set("com.example.ApplicationKt") }
 tasks.test { useJUnitPlatform() }
+//git clone git@github.com:dermanov-ru/ithub-ktor-2026.git
+// задание - склонировать презу
+// настроить  ключи
+// и тд
